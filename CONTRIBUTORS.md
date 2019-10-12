@@ -1268,6 +1268,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Data Scientist
 - Github: [kms6bn](https://github.com/kms6bn)
 
+#### Name: [Kashis Jawed](https://github.com/Kashish410)
+- Place: India
+- Bio: Student
+- Github: [kms6bn](https://github.com/Kashish410)
+
 #### Name: [Keith VenHuizen](https://github.com/keithvenh/)
 - Place: Sioux Falls, South Dakota
 - Bio: Hi, I'm Keith. I love my family, playing board games, Chicago sports and problem solving!
